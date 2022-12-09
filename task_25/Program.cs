@@ -2,6 +2,7 @@
 // 3, 5 -> 243 (3⁵)
 // 2, 4 -> 16
 
+Console.Clear();
 int numberA = ReadInt("Введите число A: ");
 int numberB = ReadInt("Введите число B: ");
 ToDegree(numberA, numberB);

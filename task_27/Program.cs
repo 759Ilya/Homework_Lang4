@@ -3,6 +3,7 @@
 // 82 -> 10
 // 9012 -> 12
 
+Console.Clear();
 int number = ReadInt("Введите число: ");
 int len = NumberLen(number);
 SumNumbers(number, len);

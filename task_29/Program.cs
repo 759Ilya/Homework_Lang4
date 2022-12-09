@@ -27,7 +27,7 @@ void PrintArray(int[] col)
     int i;
     for (i = 0; i < count; i++)
     {
-        Console.Write(col[i] + " ");
+        Console.Write(col[i] + ",");
     }
 }
 int[] array = new int[8];
